@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 
 '''
-
-Question-5:
-
 Question 5:
 
 Create an implementation of a queue that would have 
